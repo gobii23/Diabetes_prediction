@@ -28,3 +28,8 @@ Ever wondered if AI could help in predicting diabetes? Well, you're in the right
 - 🧮 Scikit-learn
 - 📈 Plotly & Seaborn
 - 🎨 Matplotlib
+
+## 🙏 Special Thanks
+
+A heartfelt thank you to **Ashwin Rajkumar** for his invaluable mentorship and guidance. His support has been instrumental in my journey, empowering me to develop this project and inspiring confidence to tackle more machine learning models with impactful applications in the medical field. I look forward to creating solutions that can truly benefit healthcare, thanks to his insights and encouragement.
+
