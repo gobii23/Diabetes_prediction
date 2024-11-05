@@ -24,83 +24,22 @@ Ever wondered if AI could help in predicting diabetes? Well, you're in the right
 
 ## 📊 Technical Stack
 
-```python
-🐍 Python
-📊 Pandas & NumPy
-🧮 Scikit-learn
-📈 Plotly & Seaborn
-🎨 Matplotlib
+- 🐍 Python
+- 📊 Pandas & NumPy
+- 🧮 Scikit-learn
+- 📈 Plotly & Seaborn
+- 🎨 Matplotlib
 
-💻 How to Use
-Clone the repository
+## 💻 How to Use
 
-bash
-
-Verify
-
-Open In Editor
-Edit
-Copy code
+### Clone the repository
+```bash
 git clone https://github.com/yourusername/DiabetAI-Predictor.git
-Install requirements
 
-bash
-
-Verify
-
-Open In Editor
-Edit
-Copy code
+###Install requirements
+```bash
 pip install -r requirements.txt
-Run the predictor
 
-bash
-
-Verify
-
-Open In Editor
-Edit
-Copy code
+###Run the predictor
+```bash
 python diabetes_pred.py
-Input the following parameters when prompted:
-
-Pregnancies
-Glucose
-Blood Pressure
-Skin Thickness
-Insulin
-BMI
-Diabetes Pedigree Function
-Age
-📈 Sample Output
-
-Verify
-
-Open In Editor
-Edit
-Copy code
-Prediction: Diabetic
-Probability of being Diabetic: 85.67%
-🎯 Model Performance
-Accuracy: Our model achieves competitive accuracy on the test set
-Standardization: Features are scaled for optimal performance
-Validation: Robust train-test split methodology
-🤝 Contributing
-Got ideas to make this even better? Contributions are welcome!
-
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-
-
-🙏 Acknowledgments
-Dataset: Pima Indians Diabetes Database
-Inspiration: Making healthcare predictions accessible to everyone
-Contributors: The amazing open-source community
-📬 Contact
-Got questions? Reach out to me:
-
-Your Name - [gopin0914@gmail.com]
-Project Link: https://github.com/gobii23/Diabetes_prediction
