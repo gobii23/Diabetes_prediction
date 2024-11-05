@@ -1,4 +1,4 @@
-# 🩺 DiabetAI Predictor
+# 🩺 Diabet Predictor
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange)
